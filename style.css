@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+#countryprint {
+  font-size: 75px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#heading {
+  margin-bottom: 0;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
